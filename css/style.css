@@ -1,0 +1,34 @@
+#tit_form{
+	font-family: 'Righteous', cursive;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: -3px -3px 3px #2D72B7, 3px -3px 3px #2D72B7, -3px 3px 3px #2D72B7, 3px 3px 3px #2D72B7;
+
+
+}
+
+legend{
+	font-family: 'Lobster';
+	font-size: 20px;
+	color: #2D72B7;
+}
+
+button{
+	font-family: 'Righteous', cursive;
+}
+
+#contenido {
+	font-family: 'Righteous', cursive;
+	text-align: justify;
+}
+
+h3{
+	font-family: 'Lobster';
+	font-size: 20px;
+	color: #2D72B7;
+
+}
+
+
+
+
