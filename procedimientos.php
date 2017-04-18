@@ -22,7 +22,7 @@
 	<div class="slider">
 		    <ul class="slides">
 		    	<li>
-		    		<img src="http://www.hogarus.com/uploads/thumbs/864_como-buscan-candidatos-las-empresas_488.jpg">
+		    		<img src="http://www.actualicese.com/_ig/img/fotos/empree.jpg">
 		    	</li>
 
 		    	<li>
